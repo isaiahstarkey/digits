@@ -1,0 +1,9 @@
+.background-photo {
+  background: url("/images/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.header-icons {
+  color: white;
+
+}
