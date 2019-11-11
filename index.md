@@ -1,17 +1,24 @@
-<img src="doc/landing.PNG>
+<img src="doc/landing.PNG">
 
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/ics-software-engineering/meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+Second, go to [https://github.com/isaiahstarkey/digits), and click the "clone or download" button. Click on Download ZIP.
 
-Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+Third, after the file is finished downloading, unzip the file.
 
-Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+Fourth, open a Command Promt and cd into the app/ directory of the newly unzipped file. Install meteor:
+
 
 ```
 $ meteor npm install
+```
+
+Fifth, start the digits application:
+
+```
+$ meteor npm run start
 ```
 
 #### Landing page
