@@ -4,7 +4,7 @@
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/isaiahstarkey/digits), and click the "clone or download" button. Click on Download ZIP.
+Second, go to the [github repository](https://github.com/isaiahstarkey/digits), and click the "clone or download" button. Click on Download ZIP.
 
 Third, after the file is finished downloading, unzip the file.
 
